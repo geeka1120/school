@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+#define int data
+
 int
 main(void)
 {
