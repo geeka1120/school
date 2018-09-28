@@ -23,6 +23,6 @@ main(void)
     if (write(fd, buf2, 10) != 10)
         err_sys("buf2 write error");
     /* offset is 16394. */
-
+    
     exit(0);
 }
